@@ -8,3 +8,5 @@ the hot spot temperature. The new algorithm is based on the recursive localizati
 conductive materials, touching previously localized ones. The optimization results are compared with those
 reached in the open literature to indicate that the proposed algorithm is promising, efficient and fast. It was also
 indicated that morphing the insert aspect ratio could enhance the effectiveness of the proposed algorithm.
+![image](https://github.com/Serezaei/An-Algorithm-to-optimize-conduction-pathways-in-cooling-CPUs/assets/85247568/07b249a0-6383-49e5-96d8-34702b81f079)
+
